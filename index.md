@@ -225,11 +225,11 @@ Vamos a ver los pasos necesarios para instalar Unity en nuestro ordenador.
 
 Primero iremos a la página oficial de Unity:[ https://unity.com/es ](https://unity.com/es)donde tendremos una página similar a esta: 
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.003.jpeg)
+![Inicio Unity](./images/imagen01.jpeg)
 
 Pulsaremos el botón **Descargar** y nos aparecerá la página, donde podremos elegir un plan o directamente descargar el instalador de Unity Hub: 
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.004.jpeg)
+![Descarga](./images/imagen02.jpg)
 
 En  este  punto  se  nos  descargará  el  **instalador  de  Unity  Hub**,  que  nos  hará  de “concentrador” de nuestros proyectos de Unity y nos permitirá tener instaladas varias versiones del editor de Unity a la vez. 
 
@@ -239,20 +239,26 @@ Además, para poder instalar un editor de Unity necesitaremos tener una licencia
 
 [En este vídeo ](https://www.youtube.com/watch?v=VZ25jjf7fQU)se explica perfectamente el proceso para crear un usuario y una licencia. A partir de ese momento podremos instalar una o varias versiones de Unity. 
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.005.jpeg)
+![SingIn](./images/imagen03.jpg)
 
-Una vez creada y habiendo iniciado sesión y teniendo la licencia, podemos ir a la opción Installs en la que podemos instalar (ya que no tenemos instalada ninguna versión del editor de Unity) la última versión LTS (con soporte de larga duración). 
+![Licencia](./images/imagen04.jpg)
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.006.jpeg)
+Una vez creada y habiendo iniciado sesión y teniendo la licencia, nos ofrece la opción de instalar una versión de Unity o si saltamos ese paso podemos ir a la opción Installs en la que podemos instalar (ya que no tenemos instalada ninguna versión del editor de Unity) la última versión LTS (con soporte de larga duración). 
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.007.jpeg)
+![Instalar Unity](./images/imagen05.jpg)
+
+o bien:
+
+![Instalar2](./images/imagen06.jpg)
+
+![Instalar3](./images/imagen07.jpg)
 
 Cuando entremos a Unity Hub nos aparecerá esta pantalla: 
 
-![](Aspose.Words.0dbc2c38-082a-4c36-b18e-0be86195710e.008.jpeg)
+![Instalado](./images/imagen08.jpg)
 
 en la que aparecen los distintos editores de Unity Hub instalados (puedo tener varios) y los proyectos que iremos creando. 
 
 En el próximo tema crearemos un nuevo proyecto y empezaremos a explorar el entorno de desarrollo. 
-12 *de 12 ![ref1]*
+
 
